@@ -1,0 +1,6 @@
+mysql:
+  ip: 8.134.145.217
+  port: 3306
+  user: root
+  password: root
+  dbname: RatingDB
